@@ -10,6 +10,9 @@
 /* Header (Cabeçalho)*/
 @import "./global/header.css";
 
+/* Footer */
+@import "./global/footer.css";
+
 /* Home */
 @import "./home/introducao.css";
 
@@ -30,3 +33,8 @@
 
 /* Seguros */
 @import "./seguros/seguros.css";
+
+/* Termos */
+@import "./termos/termos.css";
+
+
