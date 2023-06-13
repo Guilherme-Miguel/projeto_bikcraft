@@ -16,5 +16,8 @@
 /* Botão (links (tag a)) */
 @import "./utilidades/componentes.css";
 
+/* Tecnologia avançada */
+@import "./home/tecnologia.css";
+
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
