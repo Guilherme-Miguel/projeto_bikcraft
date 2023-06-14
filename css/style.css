@@ -31,10 +31,13 @@
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 
+/* Bicicletas segunda página*/
+@import "./bicicletas/bicicletas.css";
+
 /* Seguros */
 @import "./seguros/seguros.css";
 
 /* Termos */
-@import "./termos/termos.css";
+@import "./seguros/seguros.css";
 
 
