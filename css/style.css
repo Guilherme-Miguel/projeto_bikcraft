@@ -34,6 +34,9 @@
 /* Bicicletas segunda página*/
 @import "./bicicletas/bicicletas.css";
 
+/* Bicicletas especificações*/
+@import "./bicicleta/bicicleta.css";
+
 /* Seguros */
 @import "./seguros/seguros.css";
 
