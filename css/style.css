@@ -16,8 +16,11 @@
 /* Home */
 @import "./home/introducao.css";
 
-/* Botão (links (tag a)) */
+/* UTILIDADES | Botão (links (tag a)) */
 @import "./utilidades/componentes.css";
+
+/* Formulário */
+@import "./utilidades/formulario.css";
 
 /* Tecnologia avançada */
 @import "./home/tecnologia.css";
@@ -37,6 +40,9 @@
 /* Bicicletas especificações*/
 @import "./bicicleta/bicicleta.css";
 
+/* SEGURO */
+@import "./bicicleta/seguro.css";
+
 /* Seguros */
 @import "./seguros/seguros.css";
 
@@ -45,6 +51,11 @@
 
 /* Perguntas */
 @import "./seguros/perguntas.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
 
 /* Termos */
 @import "./termos/termos.css";
