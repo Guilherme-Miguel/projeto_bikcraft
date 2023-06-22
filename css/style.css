@@ -7,6 +7,9 @@
 /* Cores do site */
 @import "./utilidades/cores.css";
 
+/* Animação js */
+@import "./utilidades/animacao.css";
+
 /* Header (Cabeçalho)*/
 @import "./global/header.css";
 
